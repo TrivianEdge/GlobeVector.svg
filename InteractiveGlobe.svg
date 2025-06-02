@@ -509,4 +509,18 @@
 <path d="M0 0 C-0.33 0.66 -0.66 1.32 -1 2 C-3.64860427 2.59355614 -6.29197322 2.74209269 -9 3 C-7.14340032 -0.71319936 -3.69365381 -0.09982848 0 0 Z " fill="#0A146B" transform="translate(343,156)"/>
 <path d="M0 0 C2.375 -0.1875 2.375 -0.1875 5 0 C5.66 0.99 6.32 1.98 7 3 C4.36 2.67 1.72 2.34 -1 2 C-0.67 1.34 -0.34 0.68 0 0 Z " fill="#F7E202" transform="translate(572,150)"/>
 <path d="M0 0 C2.97 0.99 5.94 1.98 9 3 C9 3.33 9 3.66 9 4 C6.36 4 3.72 4 1 4 C0.67 2.68 0.34 1.36 0 0 Z " fill="#081E52" transform="translate(559,146)"/>
+<!-- Clickable Colombo Pin -->
+<a xlink:href="#colombo" target="_blank">
+  <circle cx="672" cy="278" r="10" fill="#00D084">
+    <title>Colombo, Sri Lanka</title>
+  </circle>
+</a>
+
+<!-- Clickable Manila Pin -->
+<a xlink:href="#manila" target="_blank">
+  <circle cx="692" cy="313" r="10" fill="#00D084">
+    <title>Manila, Philippines</title>
+  </circle>
+</a>
+
 </svg>
