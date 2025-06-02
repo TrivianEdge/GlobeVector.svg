@@ -1,0 +1,1 @@
+# GlobeVector.svg
